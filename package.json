@@ -1,7 +1,7 @@
 {
   "name": "insecure",
   "version": "0.0.1",
-  "description": "Insecure allows to use insecure HTTPS certificates.",
+  "description": "Accept insecure HTTPS certificates from web servers.",
   "main": "insecure.js",
   "repository": {
     "type": "git",
