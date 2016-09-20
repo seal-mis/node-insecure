@@ -1,6 +1,6 @@
 {
   "name": "insecure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Accept insecure HTTPS certificates from web servers.",
   "main": "insecure.js",
   "repository": {
