@@ -1,6 +1,6 @@
 {
   "name": "insecure",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Insecure allows to use insecure HTTPS certificates.",
   "main": "insecure.js",
   "repository": {
