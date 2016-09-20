@@ -1,0 +1,29 @@
+{
+  "name": "insecure",
+  "version": "0.0.0",
+  "description": "Insecure allows to use insecure HTTPS certificates.",
+  "main": "insecure.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scherermichael/node-insecure.git"
+  },
+  "keywords": [
+    "https",
+    "certificate",
+    "insecure",
+    "NODE_TLS_REJECT_UNAUTHORIZED"
+  ],
+  "author": {
+    "name": "Michael Scherer",
+    "email": "mail@scherermichael.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scherermichael/node-insecure/issues"
+  },
+  "homepage": "https://github.com/scherermichael/node-insecure#readme",
+  "devDependencies": {
+    "roboter": "0.13.0",
+    "roboter-server": "0.13.0"
+  }
+}
