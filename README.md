@@ -5,7 +5,7 @@ Accept insecure HTTPS certificates from a web server.
 ## Installation
 
 ```bash
-$ npm install node-insecure
+$ npm install insecure
 ```
 
 ## Quick start
